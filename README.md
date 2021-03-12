@@ -26,6 +26,8 @@ Aplicação abordado a utilizão de mapeamento objeto-relacional com Api JPA uti
 
 
 
+## 📝 Licença
 
+Este projeto esta sobe a licença MIT. Veja a [LICENÇA](https://opensource.org/licenses/MIT) para saber mais.
 
 
